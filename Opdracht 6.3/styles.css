@@ -1,0 +1,16 @@
+
+.Container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row; 
+}
+.Container2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 25px;
+}
+a:link {
+  text-decoration: none;
+  font-size: 22px;
+}
